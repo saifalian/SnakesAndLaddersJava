@@ -1,13 +1,15 @@
 # Snakes and Ladders Java
 
-Snakes and Ladders Java is a desktop Java implementation of the classic board game. The project includes the main game source, a launch script, and a project report.
+Snakes and Ladders Java is a simple desktop Java version of the classic board game.
 
-## Features
+In easy words, this project lets users play Snakes and Ladders on a computer. It is a beginner-friendly Java project and can be used to learn basic game logic, dice movement, board positions, and simple program structure.
 
-- Java-based Snakes and Ladders gameplay
-- Launcher batch file for Windows
-- Runtime game logging
-- Project report PDF included for documentation
+## What This Game Includes
+
+- Java-based Snakes and Ladders gameplay.
+- A Windows launcher file.
+- Runtime logging while the game runs.
+- A project report PDF for documentation.
 
 ## Files
 
@@ -34,5 +36,4 @@ Or run:
 
 ## Notes
 
-Compiled `.class` files and runtime logs are excluded from version control.
-
+Compiled `.class` files and runtime logs are not saved in Git. They can be created again when the game is compiled and run.
