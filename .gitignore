@@ -1,0 +1,19 @@
+# Java generated output
+*.class
+out/
+build/
+target/
+
+# Runtime logs
+*.log
+game_log.txt
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
