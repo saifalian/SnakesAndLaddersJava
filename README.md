@@ -1,6 +1,5 @@
 # Snakes and Ladders Java
 
-![Snakes and Ladders Java preview](docs/screenshots/preview.svg)
 
 ## Short Description
 
@@ -25,10 +24,6 @@ The goal is to keep the project easy to understand, easy to run, and useful for 
 ### Real running game screenshot
 
 ![Real running game screenshot](docs/screenshots/real-game.png)
-
-### Project preview
-
-![Project preview](docs/screenshots/preview.svg)
 
 ## Main Features
 
