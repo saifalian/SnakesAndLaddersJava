@@ -59,6 +59,10 @@ README.md                          Project documentation
 
 The image above is a clean project preview for GitHub. It shows the main idea of the project in a simple way.
 
+## Build Check
+
+Build check: javac successfully compiled SnakesAndLaddersGame.java on the local machine.
+
 ## Current Status
 
 This project is uploaded to GitHub and prepared as a portfolio-style repository. More improvements can be added later, such as real app screenshots, demo videos, releases, and issue templates.
