@@ -12,6 +12,24 @@ Snakes and Ladders Java is a beginner-friendly desktop game project. It shows ba
 
 The goal is to keep the project easy to understand, easy to run, and useful for learning or further development.
 
+## Purpose And Idea
+
+**Purpose:** The purpose of this project is to show a complete beginner-friendly Java desktop game in one project.
+
+**Idea:** The idea is to use a simple game to learn Java basics such as classes, objects, loops, dice logic, board movement, snakes, ladders, Swing UI, and file logs.
+
+**Why I made it:** I made this to practice Java programming and explain the code in a way that is easy for beginners to follow.
+
+## Screenshots
+
+### Real running game screenshot
+
+![Real running game screenshot](docs/screenshots/real-game.png)
+
+### Project preview
+
+![Project preview](docs/screenshots/preview.svg)
+
 ## Main Features
 
 - Classic Snakes and Ladders gameplay
@@ -54,14 +72,6 @@ README.md                          Project documentation
 1. Compile with javac SnakesAndLaddersGame.java.
 2. Run with java SnakesAndLaddersGame.
 3. Or use launch_game.bat on Windows.
-
-## Screenshot
-
-The image above is a clean project preview for GitHub. It shows the main idea of the project in a simple way.
-
-## Build Check
-
-Build check: javac successfully compiled SnakesAndLaddersGame.java on the local machine.
 
 ## Current Status
 
