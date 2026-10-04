@@ -1,39 +1,72 @@
 # Snakes and Ladders Java
 
-Snakes and Ladders Java is a simple desktop Java version of the classic board game.
+![Snakes and Ladders Java preview](docs/screenshots/preview.svg)
 
-In easy words, this project lets users play Snakes and Ladders on a computer. It is a beginner-friendly Java project and can be used to learn basic game logic, dice movement, board positions, and simple program structure.
+## Short Description
 
-## What This Game Includes
+A simple Java desktop version of the classic Snakes and Ladders board game.
 
-- Java-based Snakes and Ladders gameplay.
-- A Windows launcher file.
-- Runtime logging while the game runs.
-- A project report PDF for documentation.
+## About This Project
 
-## Files
+Snakes and Ladders Java is a beginner-friendly desktop game project. It shows basic Java game logic, dice movement, board positions, snakes, ladders, and simple program structure.
+
+The goal is to keep the project easy to understand, easy to run, and useful for learning or further development.
+
+## Main Features
+
+- Classic Snakes and Ladders gameplay
+- Dice movement logic
+- Board position rules
+- Snakes and ladders movement
+- Windows launcher file
+- Runtime game log
+- Project report PDF
+
+## Tech Stack
+
+- Java
+- Desktop game logic
+- Windows launcher
+
+## Project Location
+
+Main local folder:
 
 ```text
-SnakesAndLaddersGame.java          # Main Java source file
-launch_game.bat                    # Windows launcher
-SnakesAndLadders_Project_Report.pdf
+D:\PROJECTS\SnakesAndLaddersJava
 ```
 
-## Build and Run
+GitHub repository:
 
-Compile with `javac`:
+https://github.com/saifalian/SnakesAndLaddersJava
 
-```powershell
-javac SnakesAndLaddersGame.java
-java SnakesAndLaddersGame
+## Project Structure
+
+```text
+SnakesAndLaddersGame.java          Main Java source
+launch_game.bat                    Windows launcher
+SnakesAndLadders_Project_Report.pdf Project report
+README.md                          Project documentation
 ```
 
-Or run:
+## How To Run
 
-```powershell
-.\launch_game.bat
-```
+1. Compile with javac SnakesAndLaddersGame.java.
+2. Run with java SnakesAndLaddersGame.
+3. Or use launch_game.bat on Windows.
 
-## Notes
+## Screenshot
 
-Compiled `.class` files and runtime logs are not saved in Git. They can be created again when the game is compiled and run.
+The image above is a clean project preview for GitHub. It shows the main idea of the project in a simple way.
+
+## Current Status
+
+This project is uploaded to GitHub and prepared as a portfolio-style repository. More improvements can be added later, such as real app screenshots, demo videos, releases, and issue templates.
+
+## Safety Note
+
+This is a learning game project. It does not need special permissions.
+
+## License
+
+No license file is included yet. Add a license before using this project as an open-source project.
